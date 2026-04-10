@@ -1,0 +1,1 @@
+Deposit amount Rs. 4000.0 in account 101 & new balance is Rs. 44000.0Withdraw amount Rs. 3000.0 in account 101 & new balance is Rs. 41000.0
